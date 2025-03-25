@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import "flowbite/dist/flowbite.min.js";
 
 export const Header = () => {
   return (
